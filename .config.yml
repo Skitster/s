@@ -1,0 +1,5 @@
+remote_theme: h01000110/windows-95
+permalink: /tips/content/:title
+url: skacat.ddns.net
+baseurl: /site
+markdown: GFM
